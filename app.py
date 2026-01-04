@@ -10,7 +10,6 @@ st.set_page_config(
     layout="wide"
 )
 
-
 @st.cache_resource
 def load_pipeline():
     return joblib.load("churn_model.pkl")

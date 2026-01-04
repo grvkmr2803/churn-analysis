@@ -70,17 +70,4 @@ Key features:
 
 ---
 
-## Project Structure
-
-.
-├── app.py # Streamlit application
-├── train_model.py # Model training pipeline
-├── churn_model.pkl # Trained ML pipeline
-├── X_train_raw.csv # Training data for SHAP background
-├── requirements.txt # Project dependencies
-└── README.md
-
-
-
----
 
